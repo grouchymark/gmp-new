@@ -4167,7 +4167,6 @@ section.lazy-placeholder:after {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #14c7f1, #45505b) !important;
 }
 .cid-Svi8EaIYtW .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -4197,7 +4196,6 @@ section.lazy-placeholder:after {
   opacity: 0;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #14c7f1, #45505b) !important;
 }
 .cid-rEv6LvZPaq {
   padding-top: 30px;
