@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grouchy Mark Productions",
-    "currentPage": "index.html",
+    "currentPage": "evanston-weather.html",
     "theme": {
       "name": "agencym4",
       "title": "AgencyM4",
@@ -4924,7 +4924,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -5994,7 +5994,7 @@
     "responsivewebsites.html": {
       "settings": {
         "title": "Responsive Websites",
-        "order": 6,
+        "order": 5,
         "meta_descr": "Page demonstrating responsive website design examples by Grouchy Mark productions."
       },
       "components": [
@@ -7191,7 +7191,7 @@
     "animations.html": {
       "settings": {
         "title": "Animations",
-        "order": 7,
+        "order": 6,
         "meta_descr": "Page demonstrating animation examples by Grouchy Mark Productions."
       },
       "components": [
@@ -7990,7 +7990,7 @@
     "on-camera.html": {
       "settings": {
         "title": "On-Camera",
-        "order": 8,
+        "order": 7,
         "meta_descr": "A few on-camera clips featuring Mark Madia of Grouchy Mark Productions."
       },
       "components": [
@@ -8931,7 +8931,7 @@
     "evanston-weather.html": {
       "settings": {
         "title": "Evanston Weather",
-        "order": 4,
+        "order": 8,
         "meta_descr": "Live weather conditions for Evanston, Wyoming."
       },
       "components": [
