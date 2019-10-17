@@ -2778,7 +2778,7 @@ section.lazy-placeholder:after {
   background-color: #35017d;
 }
 .cid-rElrhATTTP .block-text {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rElxATsPNH {
   background: #01ffff;
@@ -5165,6 +5165,10 @@ section.lazy-placeholder:after {
 }
 .cid-rEmJAXMrdX .mbr-overlay {
   background: linear-gradient(#26e3e0 -10%, #35017d 75%);
+}
+.cid-rEmJAXMrdX .mbr-text,
+.cid-rEmJAXMrdX .mbr-section-btn {
+  text-align: left;
 }
 .cid-rEmR4m7tQH {
   background: #ffffff;
